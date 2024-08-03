@@ -36,7 +36,7 @@ pkg update;pkg upgrade -y;pkg install python-pip;pkg install wget
 
 ```
 
-git clone https://github.com/BlackHat-Abhi/Termux-Jsqli.git;cd Termux-Jsqli;chmod +x *;python install.py;python t-sqli.py
+git clone https://github.com/BlackHat-Abhi/Termux-Jsqli.git;cd Termux-Jsqli;chmod +x *;python install.py;python t-jsqli.py
 
 
 ```
